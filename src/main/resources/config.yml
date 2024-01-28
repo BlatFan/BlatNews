@@ -1,0 +1,6 @@
+book-author: "Server"
+book-title: "News"
+
+book-open-message:
+  enable: true
+  text: "Opening of the news"

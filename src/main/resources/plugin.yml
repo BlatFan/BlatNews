@@ -1,0 +1,5 @@
+name: BlatNews
+version: '${project.version}'
+main: ru.blatfan.blatnews.BlatNews
+api-version: '1.19'
+load: STARTUP
